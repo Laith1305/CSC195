@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Array.cpp">
+    <ClCompile Include="Pointers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

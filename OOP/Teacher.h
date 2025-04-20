@@ -32,7 +32,8 @@ public:
 	}
 	
 	classroom_t GetClassroom() { return m_classroom; }
-
+	void Read();
+	void Write();
 	Type GetType() override { return Type::TEACHER; }
 	void Work() override { std::cout << "Teacher Working!\n" << std::endl; }
 private:

@@ -21,6 +21,15 @@
     <ClCompile Include="Human.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Student1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Teacher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="School.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Human.h">
@@ -30,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Teacher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="School.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

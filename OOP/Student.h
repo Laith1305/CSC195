@@ -16,6 +16,8 @@ public:
 	{
 	std::cout << "student constructor\n";
 	}
+	void Read();
+	void Write();
 
 	Type GetType() override { return Type::STUDENT; }
 	

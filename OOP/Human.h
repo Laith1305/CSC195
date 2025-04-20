@@ -36,6 +36,10 @@ public:
 
 	}
 
+	virtual void Read();
+	virtual void Write();
+
+
 	std::string GetName() { return m_name; }
 	age_t GetAge() { return m_age; }
 	void SetAge(age_t age);
